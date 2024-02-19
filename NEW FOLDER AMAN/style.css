@@ -1,0 +1,91 @@
+*{
+    margin-left: 10px;
+    margin-right: 50px;
+
+}
+
+
+
+
+.logo-wrapper{
+    display: flex;
+    justify-content: right;
+    text-decoration: none;
+    width: 90%;
+
+}
+
+.logo-wrapper img{
+    height: 20px;
+    width: 20px;
+}
+
+
+
+
+.main-header{
+    height: 5px;
+    width: 273px;
+    background-color: aqua;
+}
+
+.button-wrapper{
+    width: 178px;
+    height: 55x;
+    padding: 10px;
+    background-color: rgb(247, 62, 93);
+    color: #fff;
+}
+
+.main-cont{
+    display: flex;
+    width: 90%;
+}
+
+.linking{
+    justify-content: right;
+}
+
+
+
+
+
+
+
+element.style {
+    background-image: url(https://preview.colorlib.com/theme/petvet/images/bg_1.jpg);
+    height: 356px;
+    background-position: 50% 0%;
+}
+.main-wrap {
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.first-button{
+    background-color: #f04d68;
+    color: #fff;
+    
+}
+
+.button{
+    background-color: rgb(41, 201, 41);
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.card img{
+    height: 100px;
+    width: 100px;
+    display: inline;
+}
+
+.para-1{
+    display: inline;
+
+}
